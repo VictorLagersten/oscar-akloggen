@@ -2,7 +2,7 @@
 
 Personlig, responsiv svensk träningssida för Oscars snowboard- och skateboardåkning, med siktet på snowboardgymnasiet i Malung.
 
-Öppna `index.html` för sidan. Bilderna i repots rot visas direkt på sidan.
+Öppna `index.html` för sidan. Stillbilderna i den lokala arbetsversionen har inte laddats upp till det publika repot.
 
 ## Snowboardklipp
 
